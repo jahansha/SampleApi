@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kppj6dcUFn7w29Bv+XrrPsQUbhqbE12zF9yg5tSLKjcLTURWfA7/cgiNEmwJK+Iq7OLlEQUpw5o/Z4sqw2JoaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johna\\source\\repos\\SampleAPI\\SampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johna\\.nuget\\packages\\csvhelper\\26.0.1\\csvhelper.26.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
